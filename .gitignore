@@ -1,0 +1,26 @@
+*.swp
+*.swo
+.svn
+*_cpy_*
+*.dSYM*
+.DS_Store
+*.pyc
+*.class
+*.out
+log.txt
+build_config.mk
+deps/sim
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
